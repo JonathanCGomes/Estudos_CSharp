@@ -1,0 +1,28 @@
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\bin\Debug\net8.0\Pratica.exe
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\bin\Debug\net8.0\Pratica.deps.json
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\bin\Debug\net8.0\Pratica.runtimeconfig.json
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\bin\Debug\net8.0\Pratica.dll
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\bin\Debug\net8.0\Pratica.pdb
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.dll
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\refint\Pratica.dll
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.pdb
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\Pratica.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Treino de codigo\Pratica\obj\Debug\net8.0\ref\Pratica.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\bin\Debug\net8.0\Pratica.exe
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\bin\Debug\net8.0\Pratica.deps.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\bin\Debug\net8.0\Pratica.runtimeconfig.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\bin\Debug\net8.0\Pratica.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\bin\Debug\net8.0\Pratica.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\refint\Pratica.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\Pratica.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Pratica\obj\Debug\net8.0\ref\Pratica.dll
