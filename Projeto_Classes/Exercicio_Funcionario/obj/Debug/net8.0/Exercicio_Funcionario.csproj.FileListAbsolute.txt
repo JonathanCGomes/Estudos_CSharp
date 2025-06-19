@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\bin\Debug\net8.0\Exercicio_Funcionario.exe
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\bin\Debug\net8.0\Exercicio_Funcionario.deps.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\bin\Debug\net8.0\Exercicio_Funcionario.runtimeconfig.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\bin\Debug\net8.0\Exercicio_Funcionario.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\bin\Debug\net8.0\Exercicio_Funcionario.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.sourcelink.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\refint\Exercicio_Funcionario.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\Exercicio_Funcionario.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Funcionario\obj\Debug\net8.0\ref\Exercicio_Funcionario.dll
