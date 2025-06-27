@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\Desktop\\Estudos_CSharp\\Projeto_Classes\\Exercicio_Aluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA521077-1FF3-421A-9D6E-62651ED19081}|Exercicio_Aluno.csproj|c:\\users\\jonat\\desktop\\estudos_csharp\\projeto_classes\\exercicio_aluno\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA521077-1FF3-421A-9D6E-62651ED19081}|Exercicio_Aluno.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA521077-1FF3-421A-9D6E-62651ED19081}|Exercicio_Aluno.csproj|c:\\users\\jonat\\desktop\\estudos_csharp\\projeto_classes\\exercicio_aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA521077-1FF3-421A-9D6E-62651ED19081}|Exercicio_Aluno.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\Estudos_CSharp\\Projeto_Classes\\Exercicio_Aluno\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\Estudos_CSharp\\Projeto_Classes\\Exercicio_Aluno\\Aluno.cs",
+              "RelativeToolTip": "Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:23:46.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\Desktop\\Estudos_CSharp\\Projeto_Classes\\Exercicio_Aluno\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\Desktop\\Estudos_CSharp\\Projeto_Classes\\Exercicio_Aluno\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:21:38.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\bin\Debug\net8.0\Exercicio_Aluno.exe
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\bin\Debug\net8.0\Exercicio_Aluno.deps.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\bin\Debug\net8.0\Exercicio_Aluno.runtimeconfig.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\bin\Debug\net8.0\Exercicio_Aluno.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\bin\Debug\net8.0\Exercicio_Aluno.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.sourcelink.json
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\refint\Exercicio_Aluno.dll
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.pdb
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\Exercicio_Aluno.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Estudos_CSharp\Projeto_Classes\Exercicio_Aluno\obj\Debug\net8.0\ref\Exercicio_Aluno.dll
